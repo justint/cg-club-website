@@ -1,21 +1,26 @@
 inc:
   # Blog Information
   title:        "Computer Graphics Club"
-  subtitle:     "Bringing CG to SJSU"
+  subtitle:     "Powering Silicon Valley, by graphics!"
   cover_image:  blog-cover.jpg
-  logo:         logo.png
+  logo:         logo-cg.png
 
   # Company information
   company:      Computer Graphics Club
   url:          http://www.sjsucg.org/
   facebook:     groups/sjsucg/
-  twitter:      sendtoinc
-  gplus:        '101183822199340201470'
-  about_link:   https://www.sjsucg.org/about/
+  #twitter:
+  #gplus:
+
+  # Nav links
+  about_link:    /about/
+  archive_link:  /archive/
+  projects_link: /projects/
+  events_link:   /events/
 
   # Product Information
-  product_link: http://incorporated.sendtoinc.com/
-  tagline:      "Get a modern blog for your company"
+  product_link: https://goo.gl/forms/rl2x7DepBUYvc4qj1
+  tagline:      "Join the club - it's free!"
 
   # Comments
   disqus:
@@ -24,15 +29,15 @@ inc:
 
   # Sharing settings
   sharing:
-    twitter:    false
-    facebook:   false
-    gplus:      false
+    twitter:    true
+    facebook:   true
+    gplus:      true
     hn:         false
 
 
  # Analytics
   analytics:
-    google: false # Add tracking code in _includes/_google-analytics.html
+    google: true # Add tracking code in _includes/_google-analytics.html
 
 
   # Google Fonts
@@ -93,15 +98,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
 
-  coderay:
-    coderay_wrap: div
-    coderay_line_numbers: inline
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: style
 
 redcloth:
   hard_breaks: true

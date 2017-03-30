@@ -2,17 +2,17 @@
 layout: base
 ---
 <div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
-    
+
     <section>
         <div class="container">
             <h1>{{ site.inc.title }}</h1>
             {% if site.inc.subtitle %}<h3>{{ site.inc.subtitle }}</h3>{% endif %}
-        
+
             {% if site.inc.twitter %}
             <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
             {% endif %}
             {% if site.inc.facebook %}
-            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
+            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Join our Facebook group" target="_blank"><i class="icon icon-facebook"></i></a>
             {% endif %}
             <a href="/feed.xml" title="RSS Feed">
                 <i class="icon icon-rss"></i>
@@ -23,32 +23,42 @@ layout: base
 
 
 <article class="container">
-{% for post in paginator.posts %}
-  {% unless post.draft %}
-    <section class="index">
-        <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
-        <div>
-            <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
-            <p>{{ post.excerpt }}</p>
-            <div class="meta">
-                Written By <address>{{ post.author.name }}</address> &mdash;
-                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
-            </div>
+  <div class="row full blurb">
+    <div class="col-sm-12">
+      <h4>The Computer Graphics Club is a student organization at San José State University.</h4>
+      <br>
+      <h2>We have three main goals:</h2>
+    </div>
+  </div>
+  <div class="row full goal-1">
+        <div class="col-sm-6">
+          <h1><span>Connect our students to the computer graphics industry</span></h1>
         </div>
-        <hr>
-    </section>
-    {% endunless %}
-    {% endfor %}
-    <section class="pagination" style="text-align:center">
-      {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-        <a href="/" class="btn btn-outline">‹ Newer</a>
-        {% else %}
-        <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
-        {% endif %}
-      {% endif %}
-      {% if paginator.next_page %}
-        <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
-      {% endif %}
-    </section>
+        <div class="col-sm-6">
+          <p><span>We aim to go outside the campus, at connecting our club members to companies near and far us – getting students to those companies, and to the computer graphics conferences and events that are hosted around the year, like SIGGRAPH. We want to send people out to see what’s the latest in the industry, what new tools are out there, to learn and get connected with it all.</span></p>
+        </div>
+  </div>
+  <div class="row full goal-2">
+      <div class="col-sm-12">
+        <h1><span>Bring computer graphics technology to our campus</span></h1>
+        <p><span>We want to bring the exciting world of CG to us, so that we can get caught up on the latest in virtual reality tech, or GPU acceleration, or physically based rendering. We want to not only make technology accessible to us here, but to connect us to that expanding industry - get hands-on kits and tech that we can work with for our classes and personal projects.</span></p>
+      </div>
+  </div>
+  <div class="row full goal-3">
+      <div class="col-sm-12">
+        <h1><span>Connect the art and science departments at SJSU</span></h1>
+        <p><span>We want to break down barriers -  between the art & science, and the design & engineering departments. We mean films, research, creative software, animation pipelines, projects that go beyond the courses and get people involved and working together. Computer graphics isn’t just tech, and it’s not just art – it’s both. And we want to demonstrate that.</span></p>
+      </div>
+  </div>
+  <div class="row join-links">
+      <div class="col-sm-12">
+        <h3>Make it your story.</h3>
+        <br>
+        <a href="https://goo.gl/forms/rl2x7DepBUYvc4qj1"><button type="button" class="btn btn-outline-primary">Sign up to our email newsletter</button></a>
+        <br>
+        <a href="https://www.facebook.com/groups/sjsucg/"><button type="button" class="btn btn-outline-primary">Join our Facebook group</button></a>
+        <br>
+        <a href="https://sjsu-cg.slack.com"><button type="button" class="btn btn-outline-primary">Join our Slack</button></a>
+      </div>
+  </div>
 </article>
