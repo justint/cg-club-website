@@ -3,8 +3,8 @@ layout: post
 
 published: true
 
-title: Introduction to OpenGL Meeting
-#subtitle: "Meeting re-cap"
+title: Introduction to OpenGL
+subtitle: "Robert Bruce Workshop"
 cover_image: intro-opengl.jpg
 
 excerpt: "Professor Robert Bruce, computer graphics club advisor, presented an introduction to OpenGL technical workshop."
