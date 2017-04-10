@@ -1,7 +1,7 @@
 ---
 layout: post
 
-published: true
+published: false
 
 title: Jekyll Incorporated Features
 subtitle: "What's in the box"
