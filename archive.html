@@ -7,14 +7,14 @@ layout: base
   <p>Ordered by most recent:</p>
   <ul>
   {% for post in site.posts %}
-    {% unless post.draft %}
+    {% unless post.draft or post.categories contains 'upcoming' %}
     <li><a href="#{{ post.id }}" rel="prefetch">{{ post.title }}</a></li>
   {% endunless %}
   {% endfor %}
   </ul>
   <hr />
 {% for post in site.posts %}
-  {% unless post.draft %}
+  {% unless post.draft or post.categories contains 'upcoming' %}
     <section class="index">
         <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
         <div>

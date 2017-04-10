@@ -26,10 +26,27 @@ layout: base
   <div class="row full blurb">
     <div class="col-sm-12">
       <h4>The Computer Graphics Club is a student organization at San José State University.</h4>
-      <br>
-      <h2>We have three main goals:</h2>
+      <!-- <h2>We have three main goals:</h2> -->
     </div>
   </div>
+  <div class="row full blurb-boxes">
+    <div>
+      <span>
+        <h4>Latest news:</h4>
+          <h5><a href="https://www.facebook.com/groups/sjsucg/permalink/1466228423407836/">Openings for officer positions –– March 19, 2017</a></h5>
+          <h5><a href="https://www.facebook.com/groups/sjsucg/permalink/1468890749808270/">SIGGRAPH Interest Form open for applications –– March 22, 2017</a></h5>
+      </span>
+      <span>
+        <h4>Upcoming events:</h4>
+        {% for post in site.posts %}
+          {% unless post.draft or post.categories contains 'archives' %}
+            <a name="{{ post.id }}"></a><h5 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }} –– <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time></a></h5>
+          {% endunless %}
+        {% endfor %}
+      </span>
+    </div>
+  </div>
+  <div class="row"><h2>The club has three main goals:</h2></div>
   <div class="row full goal-1">
         <div class="col-sm-6">
           <h1><span>Connect our students to the computer graphics industry</span></h1>
