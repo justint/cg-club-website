@@ -38,7 +38,7 @@ layout: base
       </span>
       <span>
         <h4>Upcoming events:</h4>
-        {% for post in site.posts %}
+        {% for post in site.posts reversed %}
           {% unless post.draft or post.categories contains 'archives' %}
             <a name="{{ post.id }}"></a><h5 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }} –– <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time></a></h5>
           {% endunless %}
