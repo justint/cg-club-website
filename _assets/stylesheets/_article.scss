@@ -95,13 +95,14 @@ article {
         padding:0;
 
         a {
-          color:$text;
+          border-bottom: 1px dotted $accent;
           text-decoration:none;
           transition:all 0.2s ease;
 
           &:hover {
               color:lighten($accent, 50%);
               text-decoration:none;
+              border-bottom: 1px dotted lighten($accent, 50%);
           }
         }
 

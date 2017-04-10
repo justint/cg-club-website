@@ -314,6 +314,19 @@ a {
     background: rgba(0, 0, 0, 0.7);
     padding: 10px;
   }
+
+  .text {
+    p {
+      padding: 10px;
+      line-height: 100%;
+      margin: 0;
+    }
+
+    li {
+      text-align: left;
+    }
+
+  }
 }
 
 .goal-1 {
