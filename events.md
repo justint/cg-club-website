@@ -14,8 +14,8 @@ subtitle: "Past and future plans for the club"
 
 <br>
 
-{% for post in site.posts %}
-{% unless post.draft or post.categories contains 'archives' %}
+{% for post in site.posts reversed %}
+{% unless post.draft or post.categories contains 'archives'%}
   <section class="index">
       <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
       <div>
