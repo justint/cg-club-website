@@ -50,6 +50,10 @@ karllapuz25@gmail.com
 ### Vina Kong
 ##### Marketing/Public Relations
 
+2nd year Animation/Illustration major and Computer Science minor with special interest in concept design, film, and game design.
+
+vina.kong@sjsu.edu
+
 ### Shelley Wu
 ##### Social/Events Chair
 
