@@ -57,5 +57,7 @@ vina.kong@sjsu.edu
 ### Shelley Wu
 ##### Social/Events Chair
 
+Hi! I'm Shelley, and I work on events and social involvement for the Computer Graphics Club. I'm a computer science major focused on topics in computer graphics, such as computer vision and virtual reality. In my spare time, I scroll through my customized news feed on animals, art, politics, tech, fashion, latest trends, travels, and food.
+
 ### Robert Bruce
 ##### Club Advisor
