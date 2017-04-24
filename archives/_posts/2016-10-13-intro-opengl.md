@@ -9,6 +9,8 @@ cover_image: intro-opengl.jpg
 
 excerpt: "Professor Robert Bruce, computer graphics club advisor, presented an introduction to OpenGL technical workshop."
 
+location: Student Union Meeting Room 3B
+
 author:
   name: Shelley Wu
   #twitter: karrisaarinen

@@ -7,6 +7,8 @@ cover_image: sp17-first-meeting.jpg
 
 excerpt: "This is the first general meeting for computer graphics officer and members for spring 2017 semester."
 
+location: Student Union Meeting Room 3B
+
 author:
   name: Shelley Wu
   #twitter: karrisaarinen
@@ -26,7 +28,7 @@ This is the first general meeting for computer graphics officer and members for 
 		- Secretary — Karl Lapuz
 		- Treasurer — Samanvitha Basole
 		- Marketing — Vina Kong
-		- Events/Social Chair — Shelley Wu 
+		- Events/Social Chair — Shelley Wu
 	- Club Advisor:
 		- Professor Robert Bruce, CS department faculty
 	- General Goals:
@@ -56,7 +58,7 @@ This is the first general meeting for computer graphics officer and members for 
 		- What would you want to do with the club, and why?
 
 - __Nanci Solomon talk__
-	- Who: Nanci Solomon, co-founder of Xulu entertainment and a pioneer of virtual reality back in the early 90's 
+	- Who: Nanci Solomon, co-founder of Xulu entertainment and a pioneer of virtual reality back in the early 90's
 	- When: Friday, March 24, 2017 @ 3-4pm
 	- Where: Student Union Meeting Room 2B
 
@@ -67,7 +69,7 @@ This is the first general meeting for computer graphics officer and members for 
 
 - __Club Communication__
 	- Want to get involved in our discussions? Join us in Slack!
-	- [Sign up](https://sjsu-cg.slack.com/signup) to use Slack 
+	- [Sign up](https://sjsu-cg.slack.com/signup) to use Slack
 	- Note: Enter SJSU email address
 
 - __Membership/Newsletter Sign-Up__

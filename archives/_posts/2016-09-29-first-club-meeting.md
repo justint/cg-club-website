@@ -7,6 +7,8 @@ cover_image: club-cover.jpg
 
 excerpt: "This is the club’s first meeting with officers and members after it became official by SJSU Associated Students."
 
+location: Student Union Meeting Room 3A
+
 author:
   name: Shelley Wu
   #twitter: karrisaarinen
@@ -31,7 +33,7 @@ This is the club’s first meeting with officers and members after it became off
 - __Mark Cordell Holmes Talk__
 	- Who: Mark Holmes, SJSU & Pixar alumni
 	- What: “Waves of Technology” talk and Q&A
-	- When: Thursday, October 20th @ 11am 
+	- When: Thursday, October 20th @ 11am
 	- Where: Student Union Meeting Room 3A
 
 - __Intro to OpenGL Workshop__
@@ -55,7 +57,7 @@ This is the club’s first meeting with officers and members after it became off
 
 - __Club Communication__
 	- Want to get involved in our discussions? Join us in Slack!
-	- [Sign up](https://sjsu-cg.slack.com/signup) to use Slack 
+	- [Sign up](https://sjsu-cg.slack.com/signup) to use Slack
 	- Note: Enter SJSU email address
 
 - __Club Committees__

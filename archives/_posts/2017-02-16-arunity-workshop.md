@@ -7,6 +7,8 @@ cover_image: club-cover.jpg
 
 excerpt: "Xiao Li Wu, senior computer science student, gave a technical workshop on working with augmented reality (AR) in Unity3D."
 
+location: Sweeney Hall 241
+
 author:
   name: Shelley Wu
   #twitter: karrisaarinen

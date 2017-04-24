@@ -7,6 +7,8 @@ cover_image: sp17-nanci-talk.jpg
 
 excerpt: "Nanci Solomon talked on her decades-long experience in the VR (virtual reality) industry, being CEO and co-founder of Xulu Entertainment, demonstration on her company's techonology, and much more."
 
+location: Student Union Meeting Room 2B
+
 author:
   name: Karl Lapuz
   twitter: karlxadrian
@@ -22,7 +24,7 @@ Nanci Solomon talked on her decades-long experience in the VR (virtual reality) 
 ## **Announcements:**
 - __“Introduction to” Lectures/Workshops__
 	- Due to the majority’s request, the club officers brainstormed a list of various topics that may be for this semester's upcoming events.
-	- Let us know what you’d want to have a lecture/workshop on 
+	- Let us know what you’d want to have a lecture/workshop on
 	- [Vote here](https://goo.gl/forms/BWpckrlt47IN90nj1)
 
 - __Officer positions__
@@ -53,12 +55,12 @@ Nanci Solomon talked on her decades-long experience in the VR (virtual reality) 
 		- Robyn Coultas, Cadence Software Engineer
 		- Rich Valencia
 	- Building Blocks — virtual world, tools and library, and core technology
-	- Key Software Technologies include open framework, physics simulation engine, customizable actor libraries, distributed network architecture, graphics rendering engine, range from open framework, physics simulation engine to UI subsystem, tool suites, etc. 
-	- Projects: 
+	- Key Software Technologies include open framework, physics simulation engine, customizable actor libraries, distributed network architecture, graphics rendering engine, range from open framework, physics simulation engine to UI subsystem, tool suites, etc.
+	- Projects:
 		- Eidolon: An Intergalactic Resort
 		- Earthstation at SF Metreon
 		- Arrival at Adriana
-		- Personal Entertainment Guide 
+		- Personal Entertainment Guide
 		- Excursion Pods
 	- Makers’ Faire — exhibition to present the company’s projects
 	- Learn more about Xulu Entertainment on their [website](http://xulu.com)
@@ -76,7 +78,7 @@ Nanci Solomon talked on her decades-long experience in the VR (virtual reality) 
 ## **Other Notes:**
 - __Club Communication__
 	- Want to get involved in our discussions? Join us in Slack!
-	- [Sign up](https://sjsu-cg.slack.com/signup) to use Slack 
+	- [Sign up](https://sjsu-cg.slack.com/signup) to use Slack
 	- Note: Enter SJSU email address
 
 - __Membership/Newsletter Sign-Up__

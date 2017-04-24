@@ -7,6 +7,8 @@ cover_image: club-cover.jpg
 
 excerpt: "Justin Tennant, our club president, gave a quick presentation during club meeting with officers and members about future events for the rest of Fall 2016 semester, club logo suggestions, and more future plans."
 
+location: Student Union Meeting Room 3A
+
 author:
   name: Shelley Wu
   #twitter: karrisaarinen
@@ -57,7 +59,7 @@ Justin Tennant, our club president, gave a quick presentation during club meetin
 
 - __Club Communication__
 	- Want to get involved in our discussions? Join us in Slack!
-	- [Sign up](https://sjsu-cg.slack.com/signup) to use Slack 
+	- [Sign up](https://sjsu-cg.slack.com/signup) to use Slack
 	- Note: Enter SJSU email address
 
 - __Membership/Newsletter Sign-Up__

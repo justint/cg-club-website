@@ -7,6 +7,8 @@ cover_image: sp17-hololens-demo.jpg
 
 excerpt: "Riaz Ali, Director of Hardware Engineering at Microsoft, will be presenting a live demo of the Microsoft HoloLens holographic computer."
 
+location: Lab 489, Engineering Building
+
 author:
   name: Karl Lapuz
   #twitter: karrisaarinen
@@ -21,6 +23,6 @@ author:
 - **When:** Thursday, May 4 at 3:00PM - 6:00PM
 - **Where:** Engineering Building Room 489
 
-Riaz Ali, Director of Hardware Engineering at Microsoft, will be presenting a live demo of the Microsoft HoloLens holographic computer! 
+Riaz Ali, Director of Hardware Engineering at Microsoft, will be presenting a live demo of the Microsoft HoloLens holographic computer!
 
 Microsoft Hololens are mixed (augmented) reality smartglasses which gained popularity for being one of the first computers running the Windows Mixed Reality platform under the Windows 10 operating system.

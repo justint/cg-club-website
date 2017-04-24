@@ -7,6 +7,8 @@ cover_image: mark-cordell.jpg
 
 excerpt: "Mark Cordell, former pixar animator, gave a talk about his college and career experience being an animator."
 
+location: Student Union Meeting Room 3A
+
 author:
   name: Shelley Wu
   #twitter: karrisaarinen

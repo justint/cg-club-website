@@ -7,6 +7,8 @@ cover_image: sp17-rendering-arvr.jpg
 
 excerpt: "Michael Finder, a professor at San Jose State University and a software engineer at Google, gave a talk on the challenges of rendering for AR (augmented reality) and VR (virtual reality)."
 
+location: Student Union Meeting Room 1A
+
 author:
   name: Karl Lapuz
   twitter: karlxadrian

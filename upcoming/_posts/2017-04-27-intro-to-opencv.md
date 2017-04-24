@@ -7,6 +7,8 @@ cover_image: sp17-intro-to-opencv.jpg
 
 excerpt: "Our club's own advisor, Professor Robert Bruce, will be giving an introductory talk on OpenCV, a widely adapted, free, and open-source computer vision library."
 
+location: Student Union Meeting Room 5
+
 author:
   name: Karl Lapuz
   #twitter: karrisaarinen

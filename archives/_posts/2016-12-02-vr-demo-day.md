@@ -7,6 +7,8 @@ cover_image: fa16-vr-demo.jpg
 
 excerpt: "Virtual reality (VR) demos on SteamVR games were at SJSU Engineering building. Computer graphics club members and non-members were there to test out the HTC Vive."
 
+location: Lab 246, Engineering Building
+
 author:
   name: Shelley Wu
   #twitter: karrisaarinen

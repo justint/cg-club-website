@@ -7,6 +7,8 @@ cover_image: fa16-steve-durie.jpg
 
 excerpt: "Professor Steve Durie, who teaches at SJSU, gave a lecture about being an artist working with technical industry."
 
+location: Student Union Meeting Room 3A
+
 author:
   name: Shelley Wu
   #twitter: karrisaarinen

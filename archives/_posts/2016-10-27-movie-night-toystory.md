@@ -7,6 +7,8 @@ cover_image: fa16-movie-night.jpg
 
 excerpt: "This is the club’s first social meeting by watching the original Toy Story movie."
 
+location: Student Union Meeting Room 4A
+
 author:
   name: Shelley Wu
   #twitter: karrisaarinen
