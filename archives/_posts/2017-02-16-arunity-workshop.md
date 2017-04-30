@@ -19,4 +19,6 @@ author:
 
 [Original Facebook event](https://www.facebook.com/events/2282324241908873)
 
+[Instructions](/downloads/ar-unity-workshop.pdf)
+
 Xiao Li Wu, senior computer science student, gave a technical workshop on working with augmented reality (AR) in Unity3D. Computer graphics club members learned a brief intro to augmented reality. Then, they created a maze AR that works with android and iOS.
