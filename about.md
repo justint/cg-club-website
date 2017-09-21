@@ -23,45 +23,30 @@ This spring 2017 semester, our goals are to:
 > 1. Build and identify a community among the club
 > 2. Send students to the [SIGGRAPH 2017 conference](http://s2017.siggraph.org/)
 
+
+
 # Officers
 
-### Justin Tennant
+### Tiffany Pham
 ##### President
 
-A busy senior with big dreams, doing my best to unify technology and art!
-Currently working on: A real-time, markerless, single camera [facial motion capture system](https://github.com/octop1/stringless).
+### Vina Kong
+##### Vice President
 
-me@justintennant.me
-
-### Samanvitha Basole
+### Sabrina Dhaliwal
 ##### Treasurer
 
-3rd year Computer Science major and Business minor with special interest in information security, artificial intelligence, table tennis, and drawing.
-
-toSamanvitha@gmail.com
-
-### Karl Adrian Lapuz
+### Pranika Bedi
 ##### Secretary
 
-2nd year Computer Science major and Graphic Design minor with special interest in mobile app development, website development, and photography.
+### Brent Simon
+##### Events Coordinator
 
-karllapuz25@gmail.com
-
-### Vina Kong
+### Karl Lapuz
 ##### Marketing/Public Relations
 
-2nd year Animation/Illustration major and Computer Science minor with special interest in concept design, film, and game design.
-
-vina.kong@sjsu.edu
-
-### Shelley Wu
-##### Social/Events Chair
-
-Hi! I'm Shelley, and I work on events and social involvement for the Computer Graphics Club. I'm a computer science major focused on topics in computer graphics, such as computer vision and virtual reality. In my spare time, I scroll through my customized news feed on animals, art, politics, tech, fashion, latest trends, travels, and food.
-
-github.com/shelleywu
-
-shelleywu12@gmail.com
+### Justin Tennant
+##### Webmaster
 
 ### Robert Bruce
 ##### Club Advisor

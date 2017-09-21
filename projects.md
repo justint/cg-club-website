@@ -9,7 +9,7 @@ subtitle: "What's in the works by our members"
 
 ---
 
-Have a project you'd like listed? Email our club treasurer: toSamanvitha@gmail.com
+Have a project you'd like listed? Email the club: computer-graphics-club@sjsu.edu
 
 ---
 <div class="full zoomable"><img src="/images/projects/stringless-preview.png"></div>
@@ -18,5 +18,5 @@ Have a project you'd like listed? Email our club treasurer: toSamanvitha@gmail.c
 
 Stringless is a real-time, markerless, single-camera facial motion capture system. By using dlib facial landmark detection, Stringless captures facial motion data and sends it to an Autodesk Maya plug-in, where a user can map the motion capture data to a rigged face model.
 
-[View on GitHub](https://github.com/octop1/stringless)
-<iframe src="https://ghbtns.com/github-btn.html?user=octop1&repo=stringless&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="100px" height="20px"></iframe> <iframe src="https://ghbtns.com/github-btn.html?user=octop1&repo=stringless&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="20px"></iframe>
+[View on GitHub](https://github.com/justint/stringless)
+<iframe src="https://ghbtns.com/github-btn.html?user=justint&repo=stringless&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="100px" height="20px"></iframe> <iframe src="https://ghbtns.com/github-btn.html?user=justint&repo=stringless&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="20px"></iframe>
