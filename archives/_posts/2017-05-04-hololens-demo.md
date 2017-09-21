@@ -7,7 +7,7 @@ cover_image: sp17-hololens-demo.jpg
 
 excerpt: "Riaz Ali, Director of Hardware Engineering at Microsoft, will be presenting a live demo of the Microsoft HoloLens holographic computer."
 
-location: Lab 489, Engineering Building
+location: Lab 487, Engineering Building
 
 author:
   name: Karl Lapuz
@@ -21,7 +21,7 @@ author:
 
 - **Who:** Riaz Ali from Microsoft
 - **When:** Thursday, May 4 at 3:00PM - 6:00PM
-- **Where:** Engineering Building Room 489
+- **Where:** Engineering Building Room 487
 
 Riaz Ali, Director of Hardware Engineering at Microsoft, will be presenting a live demo of the Microsoft HoloLens holographic computer!
 
