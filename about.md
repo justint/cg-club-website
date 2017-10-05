@@ -18,10 +18,11 @@ The Computer Graphics Club at SJSU focuses on three goals:
 > 2. Uniting and sparking collaboration between the design, digital art, engineering, and science departments.
 > 3. Connecting students to the companies, software, events, and technology of the computer graphics industry.
 
-This spring 2017 semester, our goals are to:
+This fall 2017 semester, our goals are to:
 
 > 1. Build and identify a community among the club
-> 2. Send students to the [SIGGRAPH 2017 conference](http://s2017.siggraph.org/)
+> 2. Provide project opportunities to club members
+> 2. Raise funds for the [SIGGRAPH 2018 conference](http://s2018.siggraph.org/)
 
 
 
