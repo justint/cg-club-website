@@ -366,3 +366,30 @@ a {
     width: 50%;
   }
 }
+
+///// Projects styling /////
+
+.project-container {
+    margin:0 auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.project-header {
+  margin: 0;
+  padding-left: 100px;
+}
+
+.project-section {
+  margin: 0 !important;
+}
+
+.project-email {
+  padding-left: 8em;
+}
+
+.project-img {
+  text-align: center;
+  width: 50%;
+  padding-right: 50px;
+}
