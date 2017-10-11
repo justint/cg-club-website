@@ -12,6 +12,29 @@ subtitle: "What's in the works by our members"
 <table>
  <tbody>
   <tr>
+   <th class="project-img"><iframe width="560" height="315" src="https://www.youtube.com/embed/tBbo5TMlFGc" frameborder="0" allowfullscreen></iframe></th>
+   <th>
+<div markdown="1">
+### Strategeality
+
+Strategeality is a virtual reality simulation taking place in the year 8,246 B.C. where the player is placed in charge of leading their tribe and the goal of the player is to protect and ensure the survival of their people. To do this, the player can gather resources, raise armies for protection and conquest, and build their tribe to be a strong expansive empire. The game takes inspiration from one of the greatest hits of all time - the PC real-time strategy game series Age of Empires. The player can command around their tribe members to defend their village and explore and conquer new lands and resources, and fight alongside allies and defeat enemy forces.
+
+##### Current Team
+Arthur Baney, Chintan Vachhani, Eduardo Espericueta, and Labhesh Deshpande
+
+##### Contact
+[arthur.z.baney@gmail.com](mailto:arthur.z.baney@gmail.com)
+</div>
+   </th>
+  </tr>
+ </tbody>
+</table>
+<div markdown="1">
+---
+</div>
+<table>
+ <tbody>
+  <tr>
    <th class="project-img"><img src="/images/projects/project-ole-red.jpg"></th>
    <th>
 <div markdown="1">
