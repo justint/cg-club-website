@@ -104,7 +104,7 @@ redcloth:
   hard_breaks: true
 
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 #
 # jekyll-assets: see more at https://github.com/ixti/jekyll-assets
 #
